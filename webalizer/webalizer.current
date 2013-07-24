@@ -1,0 +1,932 @@
+# Webalizer V2.20-01 Incremental Data - 06/15/2011 02:10:21
+2011 6 15 2 10 21
+2060 1502 160 12 28 88 21324061 1080 330 0
+2 2 107 1 15
+225 154 2451156 17 101 25
+179 120 2024535 19 94 26
+140 113 1783371 20 71 30
+81 40 809713 13 29 19
+179 123 963328 17 114 30
+221 138 2310671 21 90 30
+86 69 858177 13 51 16
+317 269 2205159 16 230 22
+99 74 1221266 19 44 22
+114 91 1260352 19 55 27
+95 68 1080764 14 43 28
+79 52 1170745 18 30 19
+100 78 1698050 14 43 14
+142 112 1482796 18 84 21
+3 1 3978 2 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+35 19 325860 15
+43 41 317990 31
+70 59 642252 51
+24 19 43303 21
+29 17 114742 16
+36 26 136884 23
+35 32 422628 23
+65 53 1084682 31
+102 32 330153 26
+135 97 1547094 63
+123 47 685794 44
+203 186 1481727 162
+138 98 1732755 62
+82 63 1213198 36
+76 64 1190484 39
+101 82 848247 61
+70 55 756330 34
+137 104 1912354 54
+95 63 1125964 40
+59 52 827647 35
+199 139 2123466 97
+92 59 1156166 42
+69 62 996328 44
+42 33 308013 30
+0
+0
+0
+1502
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+144
+0
+0
+0
+0
+0
+0
+412
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/Images/inside_1.jpg
+0 47 0 3543199 0 0
+/
+0 761 0 1680480 300 166
+/schedule.html
+0 62 0 80122 6 5
+/Images/spec_draw.gif
+0 62 0 1465128 0 0
+/contact_us.html
+0 47 0 69432 3 7
+/\r
+0 1 0 2334 1 0
+/Images/elite_logo.gif
+0 127 0 238032 0 0
+/style.css
+0 151 0 72352 0 0
+/photos.html
+0 104 0 140165 12 5
+/limo_specifications.html
+0 104 0 407594 7 6
+/Images/limo_temp.jpg
+0 136 0 9324000 0 0
+/Images/inside_2.jpg
+0 46 0 3964212 0 0
+# End Of Table - urls
+# -sites- (monthly)
+cpe00c0a8850cd5-cm000e5c6f2744.cpe.net.cable.rogers.com
+0 11 8 119582 1 1307552138
+/contact_us.html
+66.220.146.246
+0 1 0 0 1 1307885687
+/
+b3091073.crawl.yahoo.net
+0 22 14 29074 8 1307234774
+/schedule.html
+spider43.yandex.ru
+0 40 31 77420 24 1308064905
+/
+blk-224-128-121.eastlink.ca
+0 13 11 297348 1 1307604151
+/contact_us.html
+218-214-2-6.people.net.au
+0 1 0 810 0 0
+-
+stjhnf0140w-142162071229.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 5 4 83668 1 1307726297
+/
+173-234-250-213.ipvnow.com
+0 1 1 2334 1 1307374472
+/
+s0106f0b479022618.wp.shawcable.net
+0 5 1 4202 1 1307739214
+/limo_specifications.html
+msnbot-207-46-199-240.search.msn.com
+0 3 2 5360 1 1307267519
+/
+69.171.224.245
+0 3 3 233100 0 0
+-
+cpe0013104bff18-cm001404b5b95c.cpe.net.cable.rogers.com
+0 12 12 298038 1 1307907939
+/
+69.171.224.247
+0 2 1 2204 1 1307460972
+/
+69.171.224.248
+0 2 2 79904 0 0
+-
+69.171.224.249
+0 1 1 77700 0 0
+-
+142.163.244.94
+0 8 6 89158 1 1307460973
+/
+69.171.224.250
+0 2 2 155400 0 0
+-
+69.171.224.251
+0 2 2 155400 0 0
+-
+stjhnf0120w-142163092021.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 14 12 299682 1 1307022343
+/
+209.90.175.103.gs.unused.primus.ca
+0 7 6 88324 1 1306949081
+/
+local.anicom.com
+0 5 4 83668 1 1307528893
+/
+sticker00.yandex.ru
+0 36 24 65856 6 1308046744
+/
+crawl-66-249-72-122.googlebot.com
+0 4 1 3978 1 1308103821
+/
+msnbot-65-52-110-87.search.msn.com
+0 2 1 3152 1 1307768735
+/
+cpe0026f32bb0e8-cm0026f32bb0e5.cpe.net.cable.rogers.com
+0 12 10 295770 1 1307799329
+/photos.html
+cpe0015e96c8489-cm00137189dfc6.cpe.net.cable.rogers.com
+0 19 12 296946 1 1308036952
+/
+74.198.9.253
+0 4 4 82846 1 1307265139
+/
+216.218.29.188
+0 4 4 82846 1 1307039459
+/
+wftest.cuda-inc.com
+0 2 2 4668 2 1307111091
+/
+stjhnf0121w-142163183015.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 77 40 638972 4 1307048550
+/contact_us.html
+msnbot-65-52-110-34.search.msn.com
+0 1 1 4202 1 1307296089
+/limo_specifications.html
+s0106485b3928837d.fm.shawcable.net
+0 7 4 85312 1 1307095745
+/
+baiduspider-220-181-108-119.crawl.baidu.com
+0 1 0 822 0 0
+-
+msnbot-207-46-199-47.search.msn.com
+0 2 1 3152 1 1306908390
+/
+baiduspider-123-125-71-24.crawl.baidu.com
+0 1 1 1358 1 1307068816
+/schedule.html
+baiduspider-123-125-71-28.crawl.baidu.com
+0 1 0 0 1 1307250320
+/
+cpe0024be430c66-cm001ac35cbe9a.cpe.net.cable.rogers.com
+0 15 13 299126 1 1307985772
+/schedule.html
+cpe6431503ce3ab-cm0018c0d3ab22.cpe.net.cable.rogers.com
+0 20 17 314132 1 1306919679
+/contact_us.html
+baiduspider-123-125-71-31.crawl.baidu.com
+0 1 0 0 1 1307939358
+/
+bastion.easternhealth.ca
+0 20 18 313918 1 1307710637
+/contact_us.html
+206-53-153-169.rdns.blackberry.net
+0 5 4 83656 1 1307210595
+/
+ip-46-73-86-65.bb.netbynet.ru
+0 2 2 2942 1 1307597032
+/
+cpe0022b0c81552-cm000f9f7f0836.cpe.net.cable.rogers.com
+0 22 20 320312 1 1307564349
+/
+194.176.125.7
+0 8 7 116360 1 1307088005
+/limo_specifications.html
+msnbot-207-46-12-238.search.msn.com
+0 2 1 2267 1 1307349672
+/photos.html
+68-171-231-80.rdns.blackberry.net
+0 6 5 85246 1 1307610783
+/contact_us.html
+msnbot-207-46-195-105.search.msn.com
+0 2 0 822 1 1307971256
+/
+cpe00184d830fdf-cm000a7369a74a.cpe.net.cable.rogers.com
+0 43 11 322764 1 1307305981
+/
+woclu2.informatik.uni-leipzig.de
+0 1 0 822 0 0
+-
+stjhnf0140w-142162127067.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 18 17 312488 1 1307135844
+/photos.html
+crawl-66-249-68-218.googlebot.com
+0 13 10 24976 3 1307698535
+/
+stjhnf0140w-142162041201.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 4 4 82846 1 1307908191
+/
+hsemail.huskyenergy.com
+0 1 0 818 0 0
+-
+stjhnf0111w-142162130129.dhcp-dynamic.nl.aliant.net
+0 12 10 295770 1 1307369239
+/photos.html
+125.60.241.249
+0 8 6 88402 1 1308030866
+/
+cpe00222d7a226c-cm00222d7a2268.cpe.net.cable.rogers.com
+0 31 23 357322 3 1307718033
+/
+91.224.160.77
+0 1 1 2334 1 1307251916
+/\r
+msnbot-65-52-109-61.search.msn.com
+0 2 0 818 1 1307931551
+/
+msnbot-65-52-110-15.search.msn.com
+0 2 1 2180 1 1307272780
+/schedule.html
+stjhnf0111w-142162129247.dhcp-dynamic.nl.aliant.net
+0 16 14 300696 1 1307990566
+/contact_us.html
+s01060019215693a2.gv.shawcable.net
+0 13 12 296946 1 1307105325
+/photos.html
+ip209128029254.gov.nf.ca
+0 8 7 89694 1 1307624340
+/schedule.html
+blk-89-250-121.eastlink.ca
+0 6 4 84490 1 1307480523
+/
+b3091237.crawl.yahoo.net
+0 21 13 28497 8 1308026523
+/
+msnbot-207-46-13-52.search.msn.com
+0 2 1 3152 1 1307709241
+/
+69.63.189.250
+0 1 1 77700 0 0
+-
+cpef07bcb68398d-cm0026f32b675d.cpe.net.cable.rogers.com
+0 12 12 175028 2 1307380131
+/
+baiduspider-123-125-71-16.crawl.baidu.com
+0 1 0 0 1 1307766669
+/
+nshalproxy03.aliant.ca
+0 8 7 88940 1 1306927036
+/
+nat-dc5.es.bluecoat.com
+0 1 1 2334 1 1307624326
+/
+mtprnf0110-142162193140.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 9 7 90516 1 1307826454
+/schedule.html
+cpe0026f39cd614-cm0026f39cd610.cpe.net.cable.rogers.com
+0 8 7 88932 1 1307379285
+/
+sticker01.yandex.ru
+0 6 4 10976 1 1306941669
+/
+stjhnf0140w-142162068175.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 14 4 91066 1 1307900160
+/
+cpe0019e3e39080-cm00223a5f3f01.cpe.net.cable.rogers.com
+0 101 88 1236922 45 1308062643
+/
+stjhnf0131w-142162017055.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 10 9 291722 1 1307107226
+/
+213.186.120.196.utel.net.ua
+0 130 126 295858 2 1308064631
+/
+cpe001d09b21fa2-cm001a66707e42.cpe.net.cable.rogers.com
+0 18 17 312488 1 1306998528
+/contact_us.html
+209.128.28.203
+0 6 4 84490 1 1307697909
+/
+out-sf247.tfbnw.net
+0 1 0 0 1 1307629695
+/
+cpe00222d59f271-cm00222d59f26d.cpe.net.cable.rogers.com
+0 8 7 88944 1 1307827981
+/
+131.137.245.207
+0 2 2 4668 1 1307714889
+/
+131.137.245.208
+0 5 4 83656 1 1307714886
+/
+crawl-66-249-72-171.googlebot.com
+0 10 3 9456 5 1307846039
+/
+ycar10.mobile.re3.yahoo.com
+0 2 1 3156 1 1307021009
+/
+ns38534.ovh.net
+0 57 0 46626 1 1307350537
+-
+206-248-134-134.dsl.teksavvy.com
+0 1 1 2334 1 1307883958
+/
+216.218.29.214
+0 9 9 119450 1 1307021244
+/
+142.163.47.202
+0 13 11 297348 1 1307447149
+/contact_us.html
+blk-138-25-88.eastlink.ca
+0 9 8 289388 1 1307139579
+/photos.html
+mtprnf0110w-142163134181.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 12 5 90934 1 1307814611
+/
+d24-150-22-249.home.cgocable.net
+0 12 11 296526 1 1307794728
+/contact_us.html
+152.32.210.207.scpe.quickclic.net
+0 18 16 311732 1 1308068627
+/photos.html
+msnbot-207-46-194-49.search.msn.com
+0 3 2 85024 1 1307921757
+/photos.html
+msnbot-207-46-204-189.search.msn.com
+0 2 0 822 1 1307282019
+/
+stjhnf0112w-142162166084.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 5 4 83668 1 1307239897
+/
+stjhnf0140w-142162076194.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 7 6 88336 1 1307371637
+/
+ip241.50-31-10.static.steadfast.net
+0 1 1 2334 1 1308043804
+/
+cpe00222de04b90-cm00222de04b8c.cpe.net.cable.rogers.com
+0 22 20 320312 1 1307479755
+/
+63.240.143.147
+0 1 0 818 0 0
+-
+74.125.75.1
+0 4 4 256288 1 1307912908
+/photos.html
+msnbot-207-46-194-76.search.msn.com
+0 3 2 96653 1 1307905473
+/photos.html
+74.210.68.14
+0 32 12 314478 1 1307213692
+/
+cpe0014d136493f-cm00194747c394.cpe.net.cable.rogers.com
+0 18 16 311732 1 1307535418
+/limo_specifications.html
+77-21-146-155-dynip.superkabel.de
+0 2 1 3156 1 1307599614
+/
+stjhnf0140w-142162073174.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 15 12 300504 1 1307382900
+/
+77-20-40-173-dynip.superkabel.de
+0 3 1 3978 1 1307867563
+/
+mtprnf0110-142162116122.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 19 17 313310 1 1307358926
+/contact_us.html
+triband-del-59.177.37.55.bol.net.in
+0 35 11 300080 1 1307523731
+/contact_us.html
+crawl-66-249-72-197.googlebot.com
+0 7 4 85312 1 1307510720
+/
+89-178-68-32.broadband.corbina.ru
+0 2 2 79904 0 0
+-
+imparser14.yandex.ru
+0 8 2 83184 0 0
+-
+209.121.150.83
+0 7 6 88336 1 1307104913
+/
+baiduspider-123-125-71-15.crawl.baidu.com
+0 1 1 4202 1 1307068822
+/limo_specifications.html
+baiduspider-123-125-71-19.crawl.baidu.com
+0 1 1 1578 1 1307068823
+/contact_us.html
+74.198.9.160
+0 5 5 84204 1 1307044884
+/schedule.html
+stjhnf0140w-142162230206.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 10 7 118004 1 1307912766
+/limo_specifications.html
+baiduspider-123-125-71-26.crawl.baidu.com
+0 2 1 2334 2 1307401371
+/
+msnbot-207-46-13-100.search.msn.com
+0 2 1 3152 1 1307669410
+/
+msnbot-207-46-13-140.search.msn.com
+0 2 0 822 1 1307878861
+/
+198.161.108.222
+0 20 19 317912 1 1306927505
+/photos.html
+msnbot-207-46-204-190.search.msn.com
+0 2 1 2400 1 1307296059
+/contact_us.html
+imparser09.yandex.ru
+0 2 0 1636 0 0
+-
+stjhnf0131w-142162107026.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 21 19 318734 1 1308082216
+/
+cpe0026f3a2c378-cm0026f3a2c374.cpe.net.cable.rogers.com
+0 18 16 311944 1 1307629730
+/contact_us.html
+208-115-111-70-reverse.wowrack.com
+0 67 35 108766 31 1308060550
+/
+stjhnf0140w-142162231189.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 17 16 308282 1 1307390800
+/
+backupmx.tritondata.com
+0 5 4 83656 1 1307954985
+/
+stjhnf0140w-142162067088.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 22 20 320312 1 1307351828
+/
+mtprnf0110-142162119003.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 13 11 200020 2 1307727504
+/
+msnbot-207-46-194-140.search.msn.com
+0 3 2 80856 1 1307332833
+/
+69.171.228.246
+0 2 2 155400 0 0
+-
+69.171.228.247
+0 1 1 2334 1 1307197877
+/
+mtprnf0110w-142163193108.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 22 20 320312 1 1307526250
+/contact_us.html
+cpe00222d66c8f1-cm00222d66c8ed.cpe.net.cable.rogers.com
+0 14 11 299146 1 1306974927
+/
+crawl-66-249-72-84.googlebot.com
+0 253 222 611659 54 1307557521
+/
+69.171.228.250
+0 1 1 77700 0 0
+-
+209.128.11.82
+0 64 17 313310 1 1306924438
+/contact_us.html
+d137-186-75-248.abhsia.telus.net
+0 21 19 221680 1 1308003896
+/contact_us.html
+stjhnf0112w-142162165150.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 14 12 131832 1 1307374224
+/contact_us.html
+184.151.127.147
+0 7 7 115538 1 1307349676
+/limo_specifications.html
+216.198.139.84
+0 15 12 373866 3 1307999889
+/
+69.63.181.244
+0 1 1 2334 1 1306915229
+/
+cpe0013207621a7-cm0011e6c7e17f.cpe.net.cable.rogers.com
+0 19 7 125402 1 1307102815
+/schedule.html
+69.63.181.247
+0 1 0 0 1 1308053417
+/
+www.whois.sc
+0 2 1 3144 1 1307808031
+/
+69.63.181.251
+0 1 1 77700 0 0
+-
+stjhnf0140w-142162120092.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 5 5 84204 1 1306948969
+/schedule.html
+baiduspider-123-125-71-21.crawl.baidu.com
+0 1 1 608 0 0
+-
+baiduspider-123-125-71-29.crawl.baidu.com
+0 1 1 1445 1 1307068821
+/photos.html
+blk-30-175-232.eastlink.ca
+0 13 11 297348 1 1306957276
+/contact_us.html
+cpe00132017e515-cm001a6681fe16.cpe.net.cable.rogers.com
+0 6 6 114180 1 1308090410
+/limo_specifications.html
+95-26-93-40.broadband.corbina.ru
+0 10 10 168634 1 1307669746
+/
+64.233.172.6
+0 3 3 29944 0 0
+-
+mtprnf0110w-142163158109.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 18 12 302970 1 1307988486
+/contact_us.html
+66.220.158.244
+0 1 0 0 1 1307368752
+/
+msnbot-207-46-195-229.search.msn.com
+0 2 0 822 1 1307792003
+/
+llf320057.crawl.yahoo.net
+0 17 14 29338 3 1308061622
+/schedule.html
+stjhnf0120w-142163072139.pppoe-dynamic.high-speed.nl.bellaliant.net
+0 13 10 296592 1 1306950475
+/photos.html
+iad1-wtp-gd-maya1.sdi.trendnet.org
+0 1 1 2334 1 1307022381
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-72-122.googlebot.com
+0 2 1 3156 1 1308103821
+/
+208-115-111-70-reverse.wowrack.com
+0 1 0 822 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 1054
+http://www.elitelimos.ca/limo_specifications.html
+1 84
+http://www.google.com/m
+0 1
+http://elitelimos.ca/contact_us.html
+1 3
+http://www.google.co.uk/search
+0 1
+http://www.elitelimos.ca/schedule.html
+1 37
+http://search.avg.com/route/
+0 1
+http://m.yahoo.com/w/search
+0 1
+http://www.bing.com/search
+0 3
+http://yandex.ru/yandsearch
+0 2
+http://www.facebook.com/plugins/like.php
+0 187
+http://www.elitelimos.ca/contact_us.html
+1 15
+http://whois.domaintools.com/elitelimos.ca
+1 1
+http://www.elitelimos.ca/index.html
+1 3
+http://maps.google.ca/maps
+0 1
+http://articlemarketingrobots.org/
+0 1
+http://elitelimos.ca/index.html
+1 2
+http://elitelimos.ca/
+1 111
+http://www.elitelimos.ca/
+1 307
+http://magicsubmitters.net/
+0 1
+http://elitelimos.ca/limo_specifications.html
+1 14
+http://www.google.com.ph/url
+0 1
+http://www.google.ca/url
+0 24
+http://www.elitelimos.ca/photos.html
+1 123
+http://elitelimos.ca/photos.html
+1 40
+http://www.google.com/
+0 1
+http://www.google.ca/search
+0 34
+http://elitelimos.ca/schedule.html
+1 7
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 10
+Mozilla/4.0 (compatible;)
+0 6
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 2
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; BOIE9;ENCA)
+0 29
+Mozilla/5.0 (compatible; SiteBot/0.1; +http://www.sitebot.org/robot/)
+0 130
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 40
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; InfoPath.2; .
+0 22
+Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J3 Sa
+0 16
+Googlebot-Image/1.0
+0 6
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET C
+0 18
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.65 Safari/534.24
+0 5
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 20
+Baiduspider+(+http://www.baidu.com/search/spider.htm)
+0 1
+BlackBerry9300/5.0.0.832 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/332
+0 5
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17
+0 8
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.8) Gecko/2009032609 Firefox/3.0.8
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 32
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17
+0 12
+Mozilla/5.0 (compatible; YandexBot/3.0; MirrorDetector; +http://yandex.com/bots)
+0 42
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SIMBAR={B2336D02-A94B-426D-950B-55D31ED405A9}; GTB7.0; SLCC1;
+0 18
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobi
+0 11
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB6.6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729;
+0 31
+findlinks/2.0.4 (+http://wortschatz.uni-leipzig.de/findlinks/)
+0 1
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.71 Safari/534.24
+0 43
+Opera/9.80 (Windows NT 5.1; U; ru) Presto/2.6.30 Version/10.63
+0 12
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; GTB7.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET 
+0 77
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobi
+0 6
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+0 5
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 10
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB7.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4
+0 19
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/0.4.154.29 Safari/525.19
+0 2
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 12
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4
+0 2
+Mozilla/5.0 (Windows NT 6.0; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 12
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.71 Safari/534.24
+0 32
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; en) AppleWebKit/534.1+ (KHTML, like Gecko) Version/6.0.0.246 Mobile Safari/534.1
+0 6
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 281
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobi
+0 9
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; MS-RTC LM 8; .NET CLR 3
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729;
+0 41
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/531.21.8 (KHTML, like Gecko) Version/4.0.4 Safari/531.21
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 4
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 7
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; en-us) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21
+0 115
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; Hotbar 11.0.78.0)
+0 16
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; en-us) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B
+0 7
+Mozilla/5.0 (iPad; U; CPU OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Sa
+0 5
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.
+0 29
+Mozilla/5.0 (X11; U; Linux i686; it-IT; rv:1.9.0.2) Gecko/2008092313 Ubuntu/9.25 (jaunty) Firefox/3.8
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; WOW64; Trident/4.0; GTB7.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0
+0 8
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.14 (KHTML, like Gecko; Google Web Preview) Chrome/9.0.597 Safari/534.14
+0 7
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/4.0.221.7 Safari/532.2
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)
+0 13
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1
+0 23
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.91 Safari/534.30
+0 15
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; OfficeLiveConn
+0 18
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB7.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NE
+0 19
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4
+0 18
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.19) Gecko/2010031422 Firefox/3.0.19 (.NET CLR 3.5.30729)
+0 14
+Mozilla/5.0 (compatible; Ezooms/1.0; ezooms.bot@gmail.com)
+0 67
+Mozilla/5.0 (Linux; U; Android 2.2; en-ca; SGH-T959D Build/FROYO) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Sa
+0 15
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152; .NET CLR 3.
+0 7
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17 ( .NET CLR 3.5.30729; .NET4.0C)
+0 24
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 25
+facebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)
+0 16
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152
+0 84
+findlinks/2.0.2 (+http://wortschatz.uni-leipzig.de/findlinks/)
+0 5
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB6.6; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET C
+0 7
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 8
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 22
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; BTRS31753; GTB7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR
+0 15
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.91 Safari/534.30
+0 26
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2b5) Gecko/20091204 Firefox/3.6b5
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; GTB6.6; MathPlayer 2.20; SLCC2; .NET CLR 2.0.50727; .N
+0 13
+Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 32
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8; en-us) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21
+0 12
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; MS-RTC LM 8; InfoPath.2)
+0 8
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB7.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729
+0 13
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 60
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; GTB6.6; MathPlayer 2.20; SLCC2; .NET CLR 2.0.50727; .N
+0 8
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.68 Safari/534.24
+0 19
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729
+0 20
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618; .NET4.0
+0 17
+Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobi
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_7) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.91 Safari/534.30
+0 35
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17
+0 60
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.2.17) Gecko/20110420 Firefox/3.6.17
+0 11
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB7.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET
+0 8
+# End Of Table - agents
+# -search strings- 
+limos in st. john's
+1
+elite limousines nl
+2
+st. john's limo nl
+1
+elite limosine newfoudland
+1
+st john's limousines
+1
+limos in st johns
+7
+limousine st. john's
+1
+limo services st john nl
+1
+elite limos st johns
+1
+elite limos st john's
+1
+limos in newfoundland
+3
+limousine st. john's nl
+1
+elite limos nl
+1
+st. john's limo rentals
+1
+limo services st. johns nl
+1
+st. john's nl limo
+1
+limousines in st.johns
+1
+elite limo st. john's
+8
+limo in st. john's
+1
+http://www.elitelimos.ca/
+1
+elite limousine st. john's
+1
+limo service st. john's nl
+1
+limo service st. john's
+1
+newfoundland limo
+2
+limo st johns
+1
+limo rentals st. john's in newfoundland
+1
+elite limosines
+1
+limo services st.johns nl
+2
+limousines in st. john's nl
+1
+limousines in st john's
+1
+classic car service st johns nl
+1
+limo rentals in newfoundland
+3
+limos in st. john's nl
+1
+elite limousines st.johns
+1
+limousine companies in st. john's newfoundland
+2
+limousine newfoundland
+3
+limo st. john's
+3
+st johns limo service
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
