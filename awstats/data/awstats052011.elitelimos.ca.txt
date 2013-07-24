@@ -1,0 +1,660 @@
+AWSTATS DATA FILE 6.8 (build 1.910)
+# If you remove this file, all statistics for date 201105 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 1915                
+POS_TIME 2594                
+POS_VISITOR 14801               
+POS_DAY 20120               
+POS_DOMAIN 3387                
+POS_LOGIN 3734                
+POS_ROBOT 3889                
+POS_WORMS 4426                
+POS_EMAILSENDER 4557                
+POS_EMAILRECEIVER 4700                
+POS_SESSION 20559               
+POS_SIDER 20768               
+POS_FILETYPES 4835                
+POS_OS 4963                
+POS_BROWSER 5079                
+POS_SCREENSIZE 5387                
+POS_UNKNOWNREFERER 5461                
+POS_UNKNOWNREFERERBROWSER 6690                
+POS_ORIGIN 7630                
+POS_SEREFERRALS 7774                
+POS_PAGEREFS 7962                
+POS_SEARCHWORDS 8429                
+POS_KEYWORDS 9440                
+POS_MISC 2257                
+POS_ERRORS 9759                
+POS_CLUSTER 3590                
+POS_SIDER_404 9862                
+POS_PLUGIN_geoip_city_maxmind 13339               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20110601000738 86 19491 8856094758972
+FirstTime 20110517231810
+LastTime 20110531221254
+LastUpdate 20110601074409 86 0 85 0 0
+TotalVisits 209                 
+TotalUnique 127                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 135                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 52 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 16 32 291598 22 25 69150
+1 5 11 295704 19 22 32002
+2 6 15 251593 21 23 34329
+3 3 3 3641 12 24 110926
+4 1 1 2334 27 28 49725
+5 2 3 25594 15 15 20940
+6 5 14 1501 29 29 55853
+7 9 27 386209 11 12 19461
+8 28 62 336979 40 41 70073
+9 45 76 1113997 18 18 34307
+10 41 80 1691225 39 39 76617
+11 46 93 1382329 67 68 64635
+12 85 163 2321606 35 37 67505
+13 33 75 1141864 13 17 29016
+14 19 40 849219 20 21 39496
+15 24 49 714997 19 19 42061
+16 35 60 951215 16 47 131482
+17 46 80 1435876 28 33 352289
+18 28 66 1065532 14 15 30182
+19 73 150 1326514 61 102 164928
+20 62 138 1674950 15 15 27284
+21 50 78 1180336 19 23 146956
+22 23 45 552130 32 36 235977
+23 29 45 723105 51 55 183206
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+ca 615 1212 16481410
+us 58 124 2188244
+unknown 26 45 778187
+ru 5 15 253620
+au 5 5 10917
+de 2 2 1501
+il 1 1 1501
+jp 1 1 2334
+lv 1 1 2334
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+googlebot 215 974225 20110531182846 0
+crawl 81 189054 20110524123110 0
+yandex 57 133068 20110531061308 0
+[+:,\.\;\/\\-]bot 39 89315 20110531144213 0
+slurp 37 61722 20110530231537 0
+robot 30 70020 20110530194243 0
+bot[+:,\.\;\/\\-] 9 20285 20110531040200 0
+commons\-httpclient 3 82238 20110522220240 0
+no_user_agent 1 2334 20110530152331 0
+exabot 1 2334 20110527083655 0
+surveybot 1 2334 20110530174439 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+css 163 60980 0 0
+html 714 1369118 0 0
+jpg 290 16437523 0 0
+gif 239 1852427 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 7
+macosx 493
+winlong 170
+winxp 195
+winnt 418
+linuxubuntu 1
+Unknown 73
+linux 56
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 19
+msie6.0 28
+firefox3.8 1
+firefox3.6 8
+firefox4.0.1 85
+opera 14
+firefox3.6.17 32
+firefox3.6.16 23
+firefox2.0.0.6 1
+firefox3.6.15 1
+msie8.0 407
+firefox3.5.5 1
+mozilla 2
+msie7.0 79
+msie9.0 44
+Unknown 75
+firefox3.0.19 1
+firefox3.0.8 1
+safari 594
+firefox3.6.13 9
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 16
+Opera/9.80_(iPhone;_Opera_Mini/5.0.019802/24.838;_U;_en)_Presto/2.5.25_Version/10.54 20110518171310
+BlackBerry9100/5.0.0.604_Profile/MIDP-2.1_Configuration/CLDC-1.1_VendorID/331 20110522194323
+BlackBerry8530/5.0.0.1000_Profile/MIDP-2.1_Configuration/CLDC-1.1_VendorID/109 20110528165231
+Firefox 20110522220748
+MLBot_(www.metadatalabs.com/mlbot) 20110522221103
+EventMachine_HttpClient 20110519121537
+MailChimp.com_Site_Checker 20110519105750
+BlackBerry9300/5.0.0.832_Profile/MIDP-2.1_Configuration/CLDC-1.1_VendorID/332 20110531181330
+LongURL_API 20110522220136
+Mozilla/5.0_(compatible;_AboutUsBot_Johnny5/2.0;__http://www.AboutUs.org/) 20110527101243
+DomainWatcher_Bot 20110520033300
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20110525155733
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20110524145227
+Google-Site-Verification/1.0 20110518021029
+BlackBerry8530/5.0.0.654_Profile/MIDP-2.1_Configuration/CLDC-1.1_VendorID/126 20110518125244
+Mozilla/5.0_(BlackBerry;_U;_BlackBerry_9800;_en)_AppleWebKit/534.1__(KHTML,_like_Gecko)_Version/6.0.0.246_Mobile_Safari/534.1_ 20110526121835
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 14
+BlackBerry9100/5.0.0.604_Profile/MIDP-2.1_Configuration/CLDC-1.1_VendorID/331 20110522194323
+BlackBerry8530/5.0.0.1000_Profile/MIDP-2.1_Configuration/CLDC-1.1_VendorID/109 20110528165231
+Firefox 20110522220748
+MLBot_(www.metadatalabs.com/mlbot) 20110522221103
+EventMachine_HttpClient 20110519121537
+ruby-openid/2.1.8_(x86_64-linux) 20110518003602
+MailChimp.com_Site_Checker 20110519105750
+BlackBerry9300/5.0.0.832_Profile/MIDP-2.1_Configuration/CLDC-1.1_VendorID/332 20110531181330
+LongURL_API 20110522220136
+DomainWatcher_Bot 20110520033300
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20110525155733
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20110524145227
+Google-Site-Verification/1.0 20110518021029
+BlackBerry8530/5.0.0.654_Profile/MIDP-2.1_Configuration/CLDC-1.1_VendorID/126 20110518125244
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 261 271
+From1 0 0
+From2 55 55
+From3 185 185
+From4 213 895
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+google 47 47
+search 2 2
+live 3 3
+yandex 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 7
+http://www.facebook.com/plugins/like.php 178 178
+http://www.facebook.com/l.php 2 2
+http://longurl.org 1 1
+http://www.we-globe.net/Weblab/SiteCommonGraveReport/www.elitelimos.ca/ 1 1
+http://whois.domaintools.com/elitelimos.ca 1 1
+http://www.increasr.com 1 1
+http://www.newfoundlandbride.ca/services/luxury-vehicles/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 33
+limo+rentals+in+newfoundland 8
+limousine+newfoundland 5
+limos+in+st+johns 4
+elite+limousine+newfoundland 3
+elite+limos+st.+john+s 2
+elitelimos.ca 2
+st.+john+s+limo 2
+limousines+services+in+st.johns 1
+elite+limousine+and+st.+johns+newfoundland 1
+limo+rentals+st.john+s 1
+www.elitelimos.ca 1
+st.+john+s+limousine 1
+suv+limo+services+and+st.+john+s+newfoundland 1
+elite+limosine+nfld 1
+elite+limo+st.+john+s 1
+elite+limousine+and+newfoundland 1
+limo+places+in+st.johns 1
+limousine+services+st.+john+s+nl 1
+limousines+st.+john+s+nl 1
+limousine+service+in+st.+johns 1
+limousine+st.+john+s 1
+limos+in+newfoundland 1
+limousine+s+st+john+s+nl 1
+limo+st.+john+s+nl 1
+elite+limousine+st.john+s 1
+st+john+limousine 1
+limo+service+st.+john+s+nl 1
+limosine+service+st+johns+nl 1
+4d9fe38d 1
+elite+limo+nl 1
+limo+rentals+st.+john+s 1
+elite+limos 1
+elite+limos.+st.john+s 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 27
+newfoundland 20
+limo 18
+s 18
+limousine 17
+in 16
+john 15
+st. 15
+elite 13
+rentals 10
+limos 8
+st.john 3
+limosine 2
+nfld 1
+www.elitelimos.ca 1
+st.johns 2
+suv 1
+4d9fe38d 1
+limos. 1
+limousines 2
+places 1
+services 3
+st 7
+service 3
+nl 7
+elitelimos.ca 2
+johns 7
+and 3
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 9 235254
+404 281 226217
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 83
+/limo_temp.jpg 5 -
+/robots.txt 121 -
+//scripts/setup.php 1 -
+/wp-includes/js/l10n.js 1 -
+//phpMyAdmin-2.8.1-rc1/scripts/setup.php 1 -
+//php-myadmin/scripts/setup.php 1 -
+/wp-content/themes/piano-black/style.css 1 -
+//sqlweb/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0.2/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-beta2/scripts/setup.php 1 -
+//phpMyAdmin-2.8.1/scripts/setup.php 1 -
+//phpadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.6.1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.2-beta1/scripts/setup.php 1 -
+/images/inside_1.jpg 3 http://elitelimos.ca/photos.html
+/xmlrpc.php 1 -
+//phpMyAdmin-2.6.0-pl1/scripts/setup.php 1 -
+/wp-content/themes/piano-black/js/comment.js 1 -
+/images/spec_draw.gif 8 http://elitelimos.ca/photos.html
+//phpMyAdmin-2.6.0-beta1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.1-rc2/scripts/setup.php 1 -
+//phpmanager/scripts/setup.php 1 -
+/wp-includes/js/jquery/jquery.js 1 -
+/wp-content/uploads/2010/05/26085_385569187060_505992060_4484020_589442_n-300x199.jpg 2 -
+//PMA2005/scripts/setup.php 1 -
+/wp-content/plugins/contact-form-7/styles.css 1 -
+//phpMyAdmin-2.6.0-alpha2/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0.1/scripts/setup.php 1 -
+//web/phpMyAdmin/scripts/setup.php 1 -
+/wp-content/themes/piano-black/comment-style.css 1 -
+//phpmyadmin1/scripts/setup.php 1 -
+//admin/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0/scripts/setup.php 1 -
+/wp-content/uploads/2010/05/31386_389815711791_507416791_4503206_2815810_n-225x300.jpg 1 -
+//phpmy-admin/scripts/setup.php 1 -
+//p/m/a/scripts/setup.php 1 -
+//web/scripts/setup.php 1 -
+/wp-login.php 4 -
+//pma/scripts/setup.php 1 -
+//sqlmanager/scripts/setup.php 1 -
+//phpmyadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.8.2/scripts/setup.php 1 -
+//websql/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0.4/scripts/setup.php 1 -
+//phpmyadmin2/scripts/setup.php 1 -
+//webadmin/scripts/setup.php 1 -
+/limo_temp.jpeg 2 http://elitelimos.ca/
+//phpMyAdmin-2.6.1-pl1/scripts/setup.php 1 -
+//phpMyAdmin-2.6.2-rc1/scripts/setup.php 2 -
+//xampp/phpmyadmin/scripts/setup.php 1 -
+/wp-content/themes/piano-black/js/jscript.js 1 -
+//mysqladmin/scripts/setup.php 1 -
+/wp-includes/wlwmanifest.xml 2 -
+//phpMyAdmin-2.8.0-rc2/scripts/setup.php 1 -
+/muieblackcat 1 -
+//phpMyAdmin-2.6.0-pl3/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-rc3/scripts/setup.php 1 -
+//phpMyAdmin-2.6.1-rc1/scripts/setup.php 1 -
+/images/elite_logo.gif 28 http://elitelimos.ca/contact_us.html
+/images/limo_temp.jpg 22 http://elitelimos.ca/photos.html
+//db/scripts/setup.php 1 -
+//admin/pma/scripts/setup.php 1 -
+//myadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0/scripts/setup.php 1 -
+/google5909ecaca2ddc662.html 4 -
+//pma2005/scripts/setup.php 1 -
+//dbadmin/scripts/setup.php 1 -
+/style.css 5 http://elitelimos.ca/contact_us.html
+//phpMyAdmin-2.6.0-pl2/scripts/setup.php 1 -
+//phpMyAdmin-2.8.0.3/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-rc1/scripts/setup.php 1 -
+//admin/phpmyadmin/scripts/setup.php 1 -
+/images/inside_2.jpg 3 http://elitelimos.ca/photos.html
+//phpMyAdmin-2.6.0-rc2/scripts/setup.php 1 -
+//phpMyAdmin-2.6.1-pl2/scripts/setup.php 1 -
+//typo3/phpmyadmin/scripts/setup.php 1 -
+//phpMyAdmin-2.6.1-pl3/scripts/setup.php 1 -
+//phpMyAdmin-2.6.0-alpha/scripts/setup.php 1 -
+//phpMyAdmin/scripts/setup.php 1 -
+//mysql/scripts/setup.php 1 -
+/www.elitelimos.ca 1 -
+/wp-content/uploads/2010/05/26085_385569177060_505992060_4484019_7824762_n-300x199.jpg 2 -
+//mysqlmanager/scripts/setup.php 1 -
+END_SIDER_404
+
+# Plugin key - Pages - Hits - Bandwidth - Last access
+BEGIN_PLUGIN_geoip_city_maxmind 45
+ca_toronto_on 0 449 0 0
+ca_saint%20john's_nl 0 316 0 0
+unknown 0 107 0 0
+ca_lewisporte_nl 0 96 0 0
+ca_mount%20pearl_nl 0 74 0 0
+ca_torbay_nl 0 29 0 0
+ca_calgary_ab 0 29 0 0
+ca_edmonton_ab 0 29 0 0
+ca_winnipeg_mb 0 28 0 0
+ca_truro_ns 0 20 0 0
+ca_montreal_qc 0 11 0 0
+us_san%20martin_ca 0 4 0 0
+lv_cesis_05 0 1 0 0
+de_duisburg_07 0 1 0 0
+us_san%20antonio_tx 0 2 0 0
+us_o%20fallon_mo 0 1 0 0
+us_san%20diego_ca 0 1 0 0
+ca_markham_on 0 15 0 0
+us_mountain%20view_ca 0 6 0 0
+ca_moncton_nb 0 10 0 0
+ca_mississauga_on 0 8 0 0
+ca_notre%20dame_nb 0 12 0 0
+us_palo%20alto_ca 0 5 0 0
+ca_guelph_on 0 11 0 0
+ca_dartmouth_ns 0 8 0 0
+us_reston_va 0 1 0 0
+il_tel%20aviv_05 0 1 0 0
+ca_carbonear_nl 0 16 0 0
+us_austin_tx 0 1 0 0
+ca_maryfield_sk 0 5 0 0
+de_gunzenhausen_02 0 1 0 0
+ca_charlottetown_pe 0 1 0 0
+ca_paradise_nl 0 12 0 0
+us_andover_nj 0 13 0 0
+us_san%20jose_ca 0 2 0 0
+us_williamsburg_va 0 4 0 0
+us_san%20pablo_ca 0 9 0 0
+ca_laval_qc 0 17 0 0
+us_seattle_wa 0 11 0 0
+us_san%20francisco_ca 0 1 0 0
+ca_grande%20prairie_ab 0 9 0 0
+us_venice_ca 0 2 0 0
+ca_fredericton_nb 0 11 0 0
+ru_moscow_48 0 15 0 0
+ca_heart's%20content_nl 0 1 0 0
+END_PLUGIN_geoip_city_maxmind
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 135
+99.232.182.70 199 409 1721932 20110531212541
+142.163.64.148 52 92 878637 20110524180853
+142.162.65.224 24 36 623152 20110523214152
+142.162.11.98 19 38 310696 20110526203719
+199.213.200.6 17 29 607790 20110527162911
+142.162.185.162 16 26 193792 20110522130604
+142.162.162.56 14 20 318668 20110525174545
+142.177.129.101 14 20 318668 20110524093806
+142.163.147.30 14 20 318668 20110528210607
+174.116.18.202 12 21 396244 20110531190926
+184.151.127.230 5 11 295704 20110523014952
+68.150.143.80 1 1 1501 20110518140444
+68.171.231.20 2 3 32692 20110522194220
+69.63.181.249 0 1 21759 
+68.171.231.19 1 4 82773 20110522194131
+174.116.75.78 1 1 1501 20110519110002
+142.163.92.104 10 16 310088 20110530195312
+142.163.180.217 11 18 312274 20110522210054
+142.163.190.104 8 14 299060 20110525155821
+95.25.226.92 1 2 2942 20110526220143
+99.238.88.22 1 4 82846 20110522220355
+174.116.86.26 1 7 286232 20110526201443
+206.47.201.176 2 2 3002 20110518104335
+68.171.234.105 2 9 288566 20110526144519
+142.162.73.227 7 11 128610 20110531205105
+142.162.155.107 3 9 290011 20110527122442
+209.128.56.238 3 12 543965 20110526103644
+174.116.57.68 6 12 298038 20110528202007
+174.114.25.118 5 11 296460 20110523115022
+150.70.64.193 1 1 2334 20110524130623
+208.94.147.190 1 1 0 20110522220136
+94.142.133.124 1 1 2334 20110531122006
+69.171.224.246 0 1 21759 
+184.72.78.207 2 2 2614 20110517235825
+95.27.207.98 1 1 2140 20110520151541
+74.198.9.161 1 1 2140 20110519140803
+142.166.86.10 5 11 295704 20110527101126
+95.221.101.246 3 12 248538 20110527021957
+74.125.64.87 2 2 2516 20110517233238
+142.162.64.220 1 1 2398 20110522160312
+142.163.118.58 3 9 289924 20110530185328
+142.162.227.130 10 17 310696 20110526212358
+184.151.127.205 1 4 82846 20110523201017
+99.229.200.156 4 8 117116 20110523130410
+68.171.231.17 1 4 1445 20110522194322
+46.163.73.178 1 1 2140 20110520033300
+66.220.158.249 0 1 21759 
+68.0.30.135 1 4 82846 20110524140605
+174.116.96.4 10 16 310088 20110530102639
+206.47.78.150 3 7 115538 20110530112934
+72.44.44.113 1 3 82238 20110522220743
+71.41.201.36 1 1 2334 20110522221103
+71.116.90.106 1 4 82846 20110525234701
+68.171.231.16 0 2 177143 
+208.80.194.61 1 1 2334 20110524124057
+207.97.248.162 2 2 3002 20110519105750
+142.162.0.45 9 15 308730 20110526103649
+157.55.112.237 1 2 2942 20110527133354
+65.51.41.98 6 13 296732 20110526090524
+24.222.145.147 1 1 1501 20110518155320
+65.52.5.119 1 1 2390 20110521090110
+174.116.102.65 3 7 115538 20110528230357
+68.150.2.197 8 20 221186 20110531221254
+50.17.153.114 1 2 80034 20110522220745
+142.163.128.27 8 14 307285 20110527195846
+8.28.16.254 1 1 2334 20110526121401
+66.249.16.212 1 1 2334 20110527101206
+188.40.88.16 1 1 0 20110524033141
+74.125.75.19 1 1 1501 20110518033134
+184.72.135.95 1 1 0 20110522220740
+142.163.148.10 2 14 572464 20110527155221
+24.224.130.244 1 1 2140 20110520091240
+216.36.179.133 2 5 84204 20110529183532
+174.116.25.216 11 17 311666 20110530171424
+66.249.17.168 1 1 2334 20110528050456
+72.14.194.18 1 1 1501 20110518021025
+75.101.180.107 1 1 1953 20110519121537
+209.128.29.254 11 17 311666 20110526121713
+69.63.181.248 1 1 0 20110525155733
+24.77.76.179 7 17 298038 20110529155203
+206.53.157.162 1 1 1501 20110518125244
+206.196.111.204 1 1 2140 20110519205418
+204.14.239.210 3 9 292768 20110524130509
+68.171.234.14 4 13 295102 20110531181329
+74.198.9.74 1 4 82846 20110523082724
+208.115.206.23 1 1 2334 20110528040606
+134.153.64.131 3 6 86538 20110524145140
+184.151.127.222 1 4 82846 20110525101522
+157.55.112.235 1 2 2942 20110527140007
+192.197.253.19 5 11 295704 20110527141226
+69.171.224.245 0 1 77700 
+109.230.251.121 2 2 4668 20110530090230
+115.124.2.202 5 5 10917 20110524231218
+62.219.132.115 1 1 1501 20110518051301
+184.73.156.247 3 3 0 20110522220748
+142.162.196.98 1 1 2140 20110519203004
+142.162.65.151 5 11 295704 20110527174531
+174.116.120.150 6 14 322126 20110523115322
+184.107.58.70 1 1 2334 20110522220131
+174.116.0.113 1 4 82846 20110528104726
+68.171.231.80 1 4 82846 20110526121831
+99.230.244.242 10 33 377537 20110523183541
+67.202.50.204 2 2 2516 20110517234313
+142.162.119.150 8 12 130188 20110529112842
+96.30.141.246 4 8 117116 20110528153802
+184.73.122.156 2 2 4668 20110527101243
+64.255.164.51 2 2 3002 20110518171310
+67.202.32.164 2 2 3002 20110518003548
+142.163.81.152 1 4 82846 20110524091436
+66.220.146.248 0 1 77700 
+206.53.157.5 1 4 82846 20110528165231
+50.17.165.85 2 2 3002 20110518003602
+66.220.158.246 0 1 21759 
+74.198.9.160 1 6 152786 20110531123655
+74.125.66.80 1 1 53 20110518021028
+142.162.248.82 3 6 87514 20110525093810
+213.133.108.196 1 1 1501 20110518062050
+174.129.57.129 1 1 0 20110522220740
+142.163.150.41 1 1 2140 20110520141409
+68.171.231.21 0 4 0 
+69.174.58.60 1 1 2140 20110520113447
+38.104.208.38 3 7 115538 20110524132956
+74.125.152.87 1 1 1501 20110518021029
+72.139.121.118 8 14 306396 20110528203956
+142.162.125.52 1 1 2140 20110519182510
+68.149.42.78 2 8 288566 20110524232304
+173.237.104.40 3 7 115538 20110523083222
+142.162.240.117 2 8 288566 20110528231347
+142.162.165.150 1 1 2140 20110519195818
+142.162.192.110 1 1 2140 20110520120526
+142.163.65.127 1 1 2140 20110519200250
+216.198.139.84 5 17 579466 20110526130100
+173.177.161.97 1 4 82846 20110523001345
+64.178.133.234 3 9 289122 20110528125909
+72.44.62.106 2 2 2614 20110517235108
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20110517 15 15 14850 5
+20110518 31 31 36086 18
+20110519 32 32 57251 12
+20110520 18 18 38520 16
+20110521 27 69 289489 7
+20110522 143 317 2553288 23
+20110523 79 160 2429212 15
+20110524 51 105 1659145 18
+20110525 35 68 966058 12
+20110526 77 169 3504567 20
+20110527 55 123 2930754 16
+20110528 57 112 2301504 19
+20110529 23 46 610636 7
+20110530 47 87 1650672 10
+20110531 24 54 678016 11
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 5
+5mn-15mn 8
+2mn-5mn 12
+30s-2mn 25
+15mn-30mn 6
+0s-30s 145
+30mn-1h 8
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 421 793091 197 157
+/photos.html 113 143055 6 21
+/limo_specifications.html 95 336160 1 8
+/schedule.html 46 55678 3 6
+/contact_us.html 35 41028 0 16
+/googlef6dfe273ca7c76df.html 4 106 2 1
+END_SIDER
